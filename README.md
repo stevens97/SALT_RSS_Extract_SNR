@@ -1,5 +1,5 @@
 # SALT_RSS_Extract_SNR
-Extract regions (outward from the object's centre) for a FITS file processed by the SALT RSS pipeline.
+Extract regions (outward from the object's centre) for a FITS file processed by the SALT RSS (Southern African Large Telescope Robert Stobie Spectrograph) pipeline.
 
 What this program does:
 ========================================
